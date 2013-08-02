@@ -1,0 +1,1 @@
+ok its work, <?=CHtml::link('again', 'index')?>?
